@@ -53,18 +53,10 @@ Me chamo Mateus Dias Mendes, tenho 27 anos e sou natural do Ceará. Atualmente, 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    img align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Mateusdiasmendes&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-  <img 
-    img align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusdiasmendes&theme=tokyonight&layout=compact&langs_count=5" 
-  />
-<p>
+<p align="center">
+  <img height="200" 
+  src="https://github-readme-stats.vercel.app/api?username=Mateusdiasmendes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusdiasmendes&layout=compact&theme=tokyonight" />
+</p>
+
