@@ -4,6 +4,10 @@
 
 Me chamo Mateus Dias Mendes, tenho 27 anos e sou natural do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFOR. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil do Linkedln (www.linkedin.com/in/mateus-dias-mendes).
 
+## 📚 Estudos Atuais (Maio/2026)
+- **Tópico:** Sintaxe de Java e Lógica de Programação Core.
+- **Foco:** Manipulação de variáveis, escopo de métodos e precisão numérica com `BigDecimal`.
+
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
 
@@ -59,11 +63,10 @@ Me chamo Mateus Dias Mendes, tenho 27 anos e sou natural do Ceará. Atualmente, 
     src="https://github-readme-stats.vercel.app/api?username=Mateusdiasmendes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdiasmendes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusdiasmendes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
-
 </p>
