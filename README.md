@@ -50,7 +50,6 @@ Me chamo Mateus Dias Mendes, tenho 27 anos e sou natural do Ceará. Atualmente, 
      />
           
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
@@ -62,11 +61,10 @@ Me chamo Mateus Dias Mendes, tenho 27 anos e sou natural do Ceará. Atualmente, 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Mateusdiasmendes&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
-
   <img 
     img align="left" 
     alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusdiasmendes&theme=tokyonight&layout=compact&langs_count=5" 
   />
-</p>
+<p>
