@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Mateus Dias Mendes, tenho 27 anos e sou natural do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFOR. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil do Linkedln (www.linkedin.com/in/mateus-dias-mendes).
+Eu chamo Mateus Dias Mendes, tenho 27 anos e sou natural do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIASSELVI.
 
 ## 📚 Estudos Atuais (Maio/2026)
-- **Tópico:** Sintaxe de Java e Lógica de Programação Core.
-- **Foco:** Manipulação de variáveis, escopo de métodos e precisão numérica com `BigDecimal`.
+- **Tópico:** Python e Lógica de Programação aplicada.
+- **Foco:** Desenvolvimento de scripts eficientes, automação e estruturas de dados dinâmicas em Python.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
@@ -16,11 +16,11 @@ Me chamo Mateus Dias Mendes, tenho 27 anos e sou natural do Ceará. Atualmente, 
 
 <img 
     align="left" 
-    alt="java"
-    title="java" 
+    alt="python"
+    title="python" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 />
 <img 
     align="left" 
